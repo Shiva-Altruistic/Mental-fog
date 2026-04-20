@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🧠 Clarity – Mental Fog Assistant
 
 An AI-powered assistant designed to help users overcome mental fog, regain focus, and improve productivity through intelligent conversation.
@@ -160,3 +161,6 @@ This project is open-source and available under the MIT License.
 AI & ML Enthusiast | Full Stack Developer
 
 ---
+=======
+# Mental-fog
+>>>>>>> c9c7073ac5f26fb211917fb6f3f3b50ec419fa87
