@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 🧠 Clarity – Mental Fog Assistant
 
 An AI-powered assistant designed to help users overcome mental fog, regain focus, and improve productivity through intelligent conversation.
@@ -57,16 +57,16 @@ clarity---mental-fog-assistant/
 
 ## ⚙️ Installation & Setup
 
-### 1️⃣ Clone the repository
+###  Clone the repository
 
 ```
-git clone https://github.com/YOUR-USERNAME/clarity-ai.git
+git clone https://github.com/Shiva-Altruistic/Mental-fog.git
 cd clarity-ai
 ```
 
 ---
 
-### 2️⃣ Install dependencies
+###  Install dependencies
 
 #### Root (optional)
 
@@ -90,19 +90,9 @@ npm install
 
 ---
 
-### 3️⃣ Environment Setup
 
-Create a `.env.local` file inside the `backend` folder and add your API keys:
 
-```
-YOUR_API_KEY=your_api_key_here
-```
-
-⚠️ Do NOT share or upload this file.
-
----
-
-### 4️⃣ Run the application
+### Run the application
 
 #### Start backend
 
@@ -160,7 +150,4 @@ This project is open-source and available under the MIT License.
 **Sadha Shiva**
 AI & ML Enthusiast | Full Stack Developer
 
----
-=======
-# Mental-fog
->>>>>>> c9c7073ac5f26fb211917fb6f3f3b50ec419fa87
+
