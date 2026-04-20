@@ -1,17 +1,20 @@
+## 🎯 Problem Statement
+
+Many students and professionals experience mental fog, lack of clarity, and difficulty focusing on tasks, but lack a simple tool to guide structured thinking.
+
+## 💡 Solution
+
+Clarity is an AI-powered assistant that helps users:
+- Express thoughts
+- Identify mental blocks
+- Get actionable steps to regain focus
+
 
 # 🧠 Clarity – Mental Fog Assistant
 
 An AI-powered assistant designed to help users overcome mental fog, regain focus, and improve productivity through intelligent conversation.
 
----
 
-## 🚀 Overview
-
-Clarity is a conversational AI tool that helps users identify mental fog, understand its causes, and receive actionable suggestions to improve clarity and focus.
-
-This project combines modern web technologies with AI to create a simple yet impactful mental wellness tool.
-
----
 
 ## ✨ Features
 
